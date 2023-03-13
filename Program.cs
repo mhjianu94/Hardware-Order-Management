@@ -16,7 +16,7 @@ namespace Hardware_Order_Management
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new hardware_config_main());
         }
     }
 }

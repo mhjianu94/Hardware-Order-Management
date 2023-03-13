@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Hardware_Order_Management
 {
-    public partial class Form1 : Form
+    public partial class hardware_config_main : Form
     {
-        public Form1()
+        public hardware_config_main()
         {
             InitializeComponent();
         }
