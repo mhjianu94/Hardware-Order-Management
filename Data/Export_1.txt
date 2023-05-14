@@ -1,0 +1,33 @@
+====Components====
+ID: 1, Name: Ryzen 9 7950X3D 4.2GHz, Category: CPU, Manufacturer: AMD , Price: 3600
+ID: 2, Name: Ryzen 5 5500 3.6GHz, Category: CPU, Manufacturer: AMD , Price: 489
+ID: 3, Name: Raptor Lake, Core i7 13700K 3.4GHz box, Category: CPU, Manufacturer: Intel, Price: 2200
+ID: 4, Name: Rocket Lake, Core i5 11400F 2.6GHz, Category: CPU, Manufacturer: Intel, Price: 634
+ID: 5, Name: GeForce RTX 3070 Ti, Category: GPU, Manufacturer: Gainward , Price: 3200
+ID: 6, Name: GeForce RTX 3070 EAGLE OC LHR 8GB GDDR6 256-bit, Category: GPU, Manufacturer: GIGABYTE, Price: 2500
+ID: 7, Name: Sapphire Radeon RX 7900 XTX, Category: GPU, Manufacturer: AMD, Price: 5900
+ID: 8, Name: TUF GAMING Z690-PLUS D4, Category: Motherboard, Manufacturer: ASUS , Price: 1050
+ID: 9, Name: B550M DS3H, Category: Motherboard, Manufacturer: GIGABYTE , Price: 460
+
+====Compatibilities====
+ID: 1, Component 1 ID: 1, Component 2 ID: 8, Are Compatible: True
+ID: 2, Component 1 ID: 2, Component 2 ID: 8, Are Compatible: True
+ID: 3, Component 1 ID: 3, Component 2 ID: 9, Are Compatible: True
+ID: 4, Component 1 ID: 4, Component 2 ID: 9, Are Compatible: True
+ID: 5, Component 1 ID: 1, Component 2 ID: 6, Are Compatible: True
+ID: 6, Component 1 ID: 2, Component 2 ID: 6, Are Compatible: True
+ID: 7, Component 1 ID: 3, Component 2 ID: 6, Are Compatible: True
+ID: 8, Component 1 ID: 4, Component 2 ID: 6, Are Compatible: True
+ID: 10, Component 1 ID: 8, Component 2 ID: 6, Are Compatible: True
+ID: 11, Component 1 ID: 9, Component 2 ID: 6, Are Compatible: True
+ID: 12, Component 1 ID: 1, Component 2 ID: 7, Are Compatible: True
+ID: 13, Component 1 ID: 2, Component 2 ID: 7, Are Compatible: True
+ID: 14, Component 1 ID: 3, Component 2 ID: 7, Are Compatible: True
+ID: 15, Component 1 ID: 4, Component 2 ID: 7, Are Compatible: True
+ID: 16, Component 1 ID: 8, Component 2 ID: 7, Are Compatible: True
+ID: 17, Component 1 ID: 9, Component 2 ID: 7, Are Compatible: True
+
+====Computers====
+ID: 1, Model: PC Gaming Viking
+ID: 2, Model: PC FirstGear
+ID: 3, Model: PC Gaming Dark Blade

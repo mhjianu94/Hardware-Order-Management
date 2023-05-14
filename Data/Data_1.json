@@ -1,0 +1,194 @@
+{
+  "Components": [
+    {
+      "Id": 1,
+      "Name": "Ryzen 9 7950X3D 4.2GHz",
+      "Category": "CPU",
+      "Manufacturer": "AMD ",
+      "Price": 3600,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 2,
+      "Name": "Ryzen 5 5500 3.6GHz",
+      "Category": "CPU",
+      "Manufacturer": "AMD ",
+      "Price": 489,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 3,
+      "Name": "Raptor Lake, Core i7 13700K 3.4GHz box",
+      "Category": "CPU",
+      "Manufacturer": "Intel",
+      "Price": 2200,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 4,
+      "Name": "Rocket Lake, Core i5 11400F 2.6GHz",
+      "Category": "CPU",
+      "Manufacturer": "Intel",
+      "Price": 634,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 5,
+      "Name": "GeForce RTX 3070 Ti",
+      "Category": "GPU",
+      "Manufacturer": "Gainward ",
+      "Price": 3200,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 6,
+      "Name": "GeForce RTX 3070 EAGLE OC LHR 8GB GDDR6 256-bit",
+      "Category": "GPU",
+      "Manufacturer": "GIGABYTE",
+      "Price": 2500,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 7,
+      "Name": "Sapphire Radeon RX 7900 XTX",
+      "Category": "GPU",
+      "Manufacturer": "AMD",
+      "Price": 5900,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 8,
+      "Name": "TUF GAMING Z690-PLUS D4",
+      "Category": "Motherboard",
+      "Manufacturer": "ASUS ",
+      "Price": 1050,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 9,
+      "Name": "B550M DS3H",
+      "Category": "Motherboard",
+      "Manufacturer": "GIGABYTE ",
+      "Price": 460,
+      "ComputerComponents": []
+    }
+  ],
+  "Compatibilities": [
+    {
+      "Id": 1,
+      "Component1Id": 1,
+      "Component2Id": 8,
+      "AreCompatible": true
+    },
+    {
+      "Id": 2,
+      "Component1Id": 2,
+      "Component2Id": 8,
+      "AreCompatible": true
+    },
+    {
+      "Id": 3,
+      "Component1Id": 3,
+      "Component2Id": 9,
+      "AreCompatible": true
+    },
+    {
+      "Id": 4,
+      "Component1Id": 4,
+      "Component2Id": 9,
+      "AreCompatible": true
+    },
+    {
+      "Id": 5,
+      "Component1Id": 1,
+      "Component2Id": 6,
+      "AreCompatible": true
+    },
+    {
+      "Id": 6,
+      "Component1Id": 2,
+      "Component2Id": 6,
+      "AreCompatible": true
+    },
+    {
+      "Id": 7,
+      "Component1Id": 3,
+      "Component2Id": 6,
+      "AreCompatible": true
+    },
+    {
+      "Id": 8,
+      "Component1Id": 4,
+      "Component2Id": 6,
+      "AreCompatible": true
+    },
+    {
+      "Id": 10,
+      "Component1Id": 8,
+      "Component2Id": 6,
+      "AreCompatible": true
+    },
+    {
+      "Id": 11,
+      "Component1Id": 9,
+      "Component2Id": 6,
+      "AreCompatible": true
+    },
+    {
+      "Id": 12,
+      "Component1Id": 1,
+      "Component2Id": 7,
+      "AreCompatible": true
+    },
+    {
+      "Id": 13,
+      "Component1Id": 2,
+      "Component2Id": 7,
+      "AreCompatible": true
+    },
+    {
+      "Id": 14,
+      "Component1Id": 3,
+      "Component2Id": 7,
+      "AreCompatible": true
+    },
+    {
+      "Id": 15,
+      "Component1Id": 4,
+      "Component2Id": 7,
+      "AreCompatible": true
+    },
+    {
+      "Id": 16,
+      "Component1Id": 8,
+      "Component2Id": 7,
+      "AreCompatible": true
+    },
+    {
+      "Id": 17,
+      "Component1Id": 9,
+      "Component2Id": 7,
+      "AreCompatible": true
+    }
+  ],
+  "Computers": [
+    {
+      "Id": 1,
+      "Model": "PC Gaming Viking",
+      "Components": null,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 2,
+      "Model": "PC FirstGear",
+      "Components": null,
+      "ComputerComponents": []
+    },
+    {
+      "Id": 3,
+      "Model": "PC Gaming Dark Blade",
+      "Components": null,
+      "ComputerComponents": []
+    }
+  ]
+}
