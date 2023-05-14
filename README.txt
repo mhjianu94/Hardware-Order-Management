@@ -50,3 +50,5 @@ Trebuie să selectați fișierul de serializare pe care doriți să îl încărc
 
 Atenție: Încărcarea unui fișier de serializare va înlocui toate datele curente. 
 Asigurați-vă că ați salvat orice date pe care doriți să le păstrați înainte de a încărca un fișier de serializare.
+
+In folderul Data puteti gasi exporturi si salvari.
